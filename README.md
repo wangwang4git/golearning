@@ -12,8 +12,8 @@
 > https://github.com/c9s/goenv  
 
 2. godep
++ godep基本操作
 > http://www.goinggo.net/2013/10/manage-dependencies-with-godep.html  
-> http://blog.hsatac.net/2013/11/golang-development-toolbox/  
 
 #### web框架
 3. revel
@@ -66,6 +66,9 @@
 
 18. redis热冷备
 
+19. 单元测试
+> https://github.com/bmizerany/assert  
+
 #### 扩展阅读
 1. [翻译]GO 是如何用 GO 编译自己的
 > http://mikespook.com/2013/06/how-go-uses-go-to-build-itself/  
@@ -73,9 +76,19 @@
 2. [翻译] GO BUILD 命令是如何工作的？
 > http://mikespook.com/2013/11/%E7%BF%BB%E8%AF%91-go-build-%E5%91%BD%E4%BB%A4%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%EF%BC%9F/  
 
-3. 博客链接
+3. 一些有关go语言的博客链接
 > http://mikespook.com/category/golang-2/  
 
-4. golang底层实现资料
+4. golang底层实现资料的汇总网页
 > http://www.haogongju.net/art/1548348  
 
+5. 关于go开发涉及的開發環境，套件管理，測試套件，其他工具
+> http://blog.hsatac.net/2013/11/golang-development-toolbox/  
+
+6. goruntine资料汇总
+> http://www.sizeofvoid.net/goroutine-under-the-hood/  
+> http://www.cnblogs.com/yjf512/archive/2012/06/06/2537712.html
+
+7. 视频资料
+> Go编程基础 https://github.com/Unknwon/go-fundamental-programming  
+> Go Web基础 https://github.com/Unknwon/go-web-foundation
