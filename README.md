@@ -85,10 +85,15 @@
 5. 关于go开发涉及的開發環境，套件管理，測試套件，其他工具
 > http://blog.hsatac.net/2013/11/golang-development-toolbox/  
 
-6. goruntine资料汇总
-> http://www.sizeofvoid.net/goroutine-under-the-hood/  
-> http://www.cnblogs.com/yjf512/archive/2012/06/06/2537712.html
+6. Go语言_并发篇
+> http://www.cnblogs.com/yjf512/archive/2012/06/06/2537712.html  
 
 7. 视频资料
 > Go编程基础 https://github.com/Unknwon/go-fundamental-programming  
-> Go Web基础 https://github.com/Unknwon/go-web-foundation
+> Go Web基础 https://github.com/Unknwon/go-web-foundation  
+
+8. goroutine背后的系统知识
+> http://www.sizeofvoid.net/goroutine-under-the-hood/  
+
+9. 【转】Go语言中的channel魔法
+> http://bbs.studygolang.com/thread-113-1-1.html  
