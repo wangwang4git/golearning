@@ -7,6 +7,9 @@
 2. Go Web编程
 > https://github.com/astaxie/build-web-application-with-golang  
 
+3. 深入解析Go
+> https://github.com/tiancaiamao/go-internals  
+
 #### 开发环境配置工具
 1. goenv
 > https://github.com/c9s/goenv  
@@ -68,6 +71,10 @@
 
 19. 单元测试
 > https://github.com/bmizerany/assert  
+
+20. thrift
+> http://my.oschina.net/u/572653/blog/165285#OSC_h1_1  
+> http://dongxicheng.org/search-engine/thrift-framework-intro/  
 
 #### 扩展阅读
 1. [翻译]GO 是如何用 GO 编译自己的
