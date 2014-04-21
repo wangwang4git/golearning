@@ -44,6 +44,7 @@
 > https://github.com/go-sql-driver/mysql  
 
 10. redis
+> https://github.com/garyburd/redigo  
 > https://github.com/hoisie/redis  
 
 11. mongodb
@@ -104,3 +105,9 @@
 
 9. 【转】Go语言中的channel魔法
 > http://bbs.studygolang.com/thread-113-1-1.html  
+
+10. Plan9的C编译器有什么特别
+> http://www.cnblogs.com/yjf512/archive/2013/01/16/2862216.html  
+
+11. A manual for the Plan 9 assembler
+> http://doc.cat-v.org/plan_9/4th_edition/papers/asm  
