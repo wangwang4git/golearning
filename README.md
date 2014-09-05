@@ -15,7 +15,7 @@
 > https://github.com/c9s/goenv  
 
 2. godep
-+ godep基本操作
+> godep基本操作
 > http://www.goinggo.net/2013/10/manage-dependencies-with-godep.html  
 
 #### web框架
